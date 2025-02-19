@@ -1,5 +1,5 @@
 import Feature1 from "./components/Feature1"
-import { motion } from "motion"
+import { motion } from "motion/react"
 import Hero from './components/Hero'
 import Header from "./components/Header"
 import BottomContact from "./components/BottomContact"

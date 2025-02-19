@@ -1,4 +1,4 @@
-import { motion } from "motion";
+import { motion } from "motion/rect";
 
 const Feature1 = () => {
   return (
