@@ -1,4 +1,4 @@
-import { motion, useTransform, useScroll } from "framer-motion";
+import { motion, useTransform, useScroll } from "motion";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 

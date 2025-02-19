@@ -1,5 +1,5 @@
 import Feature1 from "./components/Feature1"
-import { motion } from "framer-motion"
+import { motion } from "motion"
 import Hero from './components/Hero'
 import Header from "./components/Header"
 import BottomContact from "./components/BottomContact"
