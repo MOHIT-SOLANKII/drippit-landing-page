@@ -45,7 +45,7 @@ const DrippitLanding = () => {
           <div className="relative w-[300px] h-[300px] sm:w-[400px] sm:h-[400px] lg:w-[600px] lg:h-[600px] mx-auto lg:mx-0 lg:w-1/2 flex justify-center items-center lg:order-2">
             <div className="lg:scale-125">
               <img
-                src="/Black.svg"
+                src="https://res.cloudinary.com/da1dzhidd/image/upload/v1739975672/Drippit/xs9qtadl2fvszfcuql96.svg"
                 alt="App Mockup"
                 className="lg:max-w-xl"
               />
