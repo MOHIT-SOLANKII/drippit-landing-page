@@ -15,7 +15,7 @@ const BottomContact = () => {
     setMessage({ text: "", type: "" });
 
     try {
-      const response = await fetch(`${import.meta.env.VITE_APP_BACKEND_URL}api/subscribe`, {
+      const response = await fetch(`${import.meta.env.VITE_APP_BACKEND_URL}/api/subscribe`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
