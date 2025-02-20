@@ -35,7 +35,7 @@ const App = () => {
   ]
 
   return (
-    <div className="snap-y snap-mandatory w-screen h-screen overflow-y-scroll overflow-x-hidden">
+    <div className="snap-y snap-mandatory w-screen h-screen overflow-scroll">
       {/* First Hero Div */}
       <div className="snap-start w-screen h-screen">
         <Hero />
